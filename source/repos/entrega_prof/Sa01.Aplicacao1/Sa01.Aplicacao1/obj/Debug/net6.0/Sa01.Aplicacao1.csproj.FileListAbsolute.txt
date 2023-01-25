@@ -1,0 +1,15 @@
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\bin\Debug\net6.0\Sa01.Aplicacao1.exe
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\bin\Debug\net6.0\Sa01.Aplicacao1.deps.json
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\bin\Debug\net6.0\Sa01.Aplicacao1.runtimeconfig.json
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\bin\Debug\net6.0\Sa01.Aplicacao1.dll
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\bin\Debug\net6.0\Sa01.Aplicacao1.pdb
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\Sa01.Aplicacao1.csproj.AssemblyReference.cache
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\Sa01.Aplicacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\Sa01.Aplicacao1.AssemblyInfoInputs.cache
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\Sa01.Aplicacao1.AssemblyInfo.cs
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\Sa01.Aplicacao1.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\Sa01.Aplicacao1.dll
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\refint\Sa01.Aplicacao1.dll
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\Sa01.Aplicacao1.pdb
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\Sa01.Aplicacao1.genruntimeconfig.cache
+C:\Users\Antonio\source\repos\Sa01.Aplicacao1\Sa01.Aplicacao1\obj\Debug\net6.0\ref\Sa01.Aplicacao1.dll
